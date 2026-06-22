@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/easeyourneeds_v2.html" }
+  ]
+}
